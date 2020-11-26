@@ -1,0 +1,13 @@
+{
+  "presets": [
+	"es2017",
+    ["env", { "modules": false }]
+  ],
+  "plugins": [
+    "syntax-dynamic-import",
+	["transform-runtime", {
+		"polyfill": false,
+		"regenerator": true
+	}]
+  ]
+}

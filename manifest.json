@@ -1,0 +1,13 @@
+{
+  "name": "Backend Operation",
+  "short_name": "Backend Operation",
+  "icons": [{
+      "src": "/public/favicon.ico",
+      "sizes": "16x16",
+      "type": "image/png"
+    }],
+  "start_url": "/",
+  "background_color": "#f2f3f5",
+  "display": "standalone",
+  "theme_color": "#f60"
+}
